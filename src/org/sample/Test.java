@@ -20,6 +20,8 @@ public class Test {
 		for (WebElement x : tableRows) {
 			String text = x.getText();
 			System.out.println(text);
+			System.out.println(" test in a");
+			System.out.println("test in b");
 			
 			
 		}
